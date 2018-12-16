@@ -14,3 +14,13 @@ To use data to create an accessible way for people to understand the current sit
 
 ## My Process: 
 
+1. ###DATA COLLECTION
+A large part of my project was actually spent in finding compelling and authentic data that would help me achieve my purpose. I spent several hours on the USCIS (U.S Citizenship & Immigration Services) website trying to comb through their various data reports, and had to do secondary research to understand what certain terms in the immigration system meant. 
+
+Though USCIS was my primary source of data for two of the visualizations, for the other visualization I also combed through an advocacy group's website, which over the course of the past 3 years has been collecting stories from hundreds of dependent spouses. I used this to synthesize various occupations from individual stories, as well as Twitter.
+
+I also received (seemingly compelling) statistics from some women from the community of dependent spouses, but after digging into the sources and finding differing statistics as well as no trace of the original source, I decided visualizing that data felt unethical and decided against it. 
+
+
+
+
