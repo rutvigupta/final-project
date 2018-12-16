@@ -40,6 +40,8 @@ For example, one direction I considered going in was visualizing wait times that
 
 3. This project really made me more aware of tracing the sources of data, and what "good" data means. Should I trust data simply because it comes from a Govt website? What if there are different reports that tell different stories? Should I trust statistics in articles, when different articles show discrepancies? I don't really have answers to these questions, but I am now far more wary of what I find, and will definitely incorporate a practice of ethics and healthy skepticism going forward. 
 
+4. I really struggled with the word cloud visualization primarily because I realized my data was not only qualitative, but it also only had one dimension - making visualizing it extremely difficult. I chose to include it mostly because of the synthesis process that was involved in creating it, however I am aware that as a visualization, it is not very effective. 
+
 4. Next steps: I think having some sort of digital presence for this project could be extremely useful to scale it out. Even a platform that allows users to input their own postcards that have been personalized could become an interesting data collection of its own, that could be visualized. I will be actually testing these postcards out by mailing a set to women across the country, and I'm very excited to learn more about the conversations that come out of it! 
 
 
